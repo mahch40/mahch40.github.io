@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
+permalink: /Gallery/
 title: Gallery
 tags: [Gallery]
 modified: 2023-11-07
@@ -33,5 +33,5 @@ gallery:
     title: "Image 6 title caption"    
 ---
 
-{% include Gallery caption="These are some photos for you to see and enjoy." %}
+{% include gallery caption="These are some photos for you to see and enjoy." %}
 
