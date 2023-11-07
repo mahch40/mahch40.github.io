@@ -1,13 +1,11 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
+  - title: "My University"
+    url: /My University/
+  - title: "Podcasts"
+    url: /Podcasts/
   - title: "Links"
-    url: /links/
+    url: /Links/
   - title: "Hobbies"
     url: /hobbies/  
   - title: "Gallery"
