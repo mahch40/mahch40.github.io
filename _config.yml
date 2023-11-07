@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "My Website"
+title                    : "Home"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Mahdad Cheraghi" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -83,10 +83,6 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : sauleh_e
-facebook:
-  username               : sauleh.eetemadi
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -108,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahdad Cheraghi"
-  avatar           : "C:\website.profile.pic.jpg"
+  avatar           : "\Assets\Pictures\bio-photo.jpg"
   bio              : Welcome to my Website!
                      I'm a student of Computer Engineering
                      in Iran University of Science and Technology.
