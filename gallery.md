@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /Gallery/
 title: Gallery
-tags: [Gallery]
+tags: [gallery]
 modified: 2023-11-07
 comments: false
 gallery:
