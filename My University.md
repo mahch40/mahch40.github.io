@@ -25,7 +25,9 @@ More on University: (https://en.wikipedia.org/wiki/Iran_University_of_Science_an
 
 
 
-![Painting](\assets\images\IUST.jpg)
+![Painting][def]
 
 
 <iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[def]: \assets\images\IUST.jpg
