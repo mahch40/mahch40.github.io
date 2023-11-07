@@ -31,7 +31,7 @@ gallery:
     image_path: /assets/images/66.jpg
     alt: "placeholder image 66"
     title: "Image 66 title caption"    
----
+
 
 {% include gallery caption="These are some photos for you to see and enjoy." %}
 
