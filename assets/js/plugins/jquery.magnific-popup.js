@@ -1817,7 +1817,7 @@
     }
   });
 
-  /*>>gallery*/
+  /*>>Gallery*/
 
   /*>>retina*/
 

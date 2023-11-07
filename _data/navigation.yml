@@ -9,7 +9,7 @@ main:
   - title: "Hobbies"
     url: /Hobbies/  
   - title: "Gallery"
-    url: /Gallery/
+    url: /gallery/
   - title: "Blog"
     url: /Blog/
   # - title: "About"
