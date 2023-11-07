@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-permalink: /gallery/
+permalink: /Gallery/
 title: Gallery
 tags: [gallery]
-modified: 9-14-2019
+modified: 2023-11-07
 comments: false
 gallery:
   - url: /assets/images/1.jpg
@@ -27,7 +27,11 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
+      - url: /assets/images/6.jpg
+    image_path: /assets/images/6.jpg
+    alt: "placeholder image 6"
+    title: "Image 6 title caption"    
 ---
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="These are some photos for you to see and enjoy." %}
 

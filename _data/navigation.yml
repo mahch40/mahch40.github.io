@@ -9,9 +9,9 @@ main:
   - title: "Hobbies"
     url: /Hobbies/  
   - title: "Gallery"
-    url: /gallery/
+    url: /Gallery/
   - title: "Blog"
-    url: /blog/
+    url: /Blog/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
