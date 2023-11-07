@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 permalink: /gallery/
 title: Gallery
-tags: [Gallery]
+tags: [gallery]
 modified: 2023-11-07
 comments: false
 gallery:
@@ -27,11 +27,10 @@ gallery:
     image_path: /assets/images/55.jpg
     alt: "placeholder image 55"
     title: "Image 55 title caption"    
-      - url: /assets/images/66.jpg
+  - url: /assets/images/66.jpg
     image_path: /assets/images/66.jpg
     alt: "placeholder image 66"
-    title: "Image 66 title caption"    
+    title: "Image 66 title caption"  
 ---
 
-{% include gallery caption="These are some photos for you to see and enjoy." %}
-
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
