@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mahdad Cheraghi"
-  avatar           : "../assets/images/bio-photo1.jpg"
+  avatar           : "/assets/images/bio-photo1.jpg"
   bio              : Welcome to my Website!
                      I'm a student of Computer Engineering
                      in Iran University of Science and Technology.
