@@ -214,8 +214,8 @@ turtle.mainloop()
 برای دیدن فرکتال مثلث روی گزینه زیر کلیک کنید
 !
 <center>
-    <br>
-    <a href="/Post-Number-3">
-        <button>فرکتال مثلث</button>
-      </a>
-    </center>
+<br>
+<a href="/Post-Number-3">
+    <button>فرکتال مثلث</button>
+    </a>
+</center>
