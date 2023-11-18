@@ -2,7 +2,7 @@
 layout: posts
 title: "Turtle فرکتال مثلث در کتابخانه"
 ---
-<head 
+<div
 dir="rtl";
 style="font-style:Tahoma">
 
@@ -120,4 +120,4 @@ href="/Post-Number-2">
 
 </center>  
 
-</head>
+</div>
