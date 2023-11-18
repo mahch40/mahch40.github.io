@@ -367,23 +367,3 @@ src="/assets/images/Screenshot5.png">
 
 </center>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
