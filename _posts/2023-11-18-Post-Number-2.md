@@ -2,14 +2,10 @@
 layout: posts
 title: 
 ---
-<dir="rtl";style="font-style:Tahoma">
-<center>
-<font size="+5">
-<font color="Red">
 "Turtle فرکتال درخت در کتابخانه"
-</fontcolor>
-</font>
-</center>
+<!-- </fontcolor> -->
+<!-- </font> -->
+<!-- </center> -->
 <hr>
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
@@ -149,7 +145,7 @@ turtle.mainloop()
 :
 <br>
 <center>
-<img src="Screenshot.png">
+<img src="/assets/images/Screenshot.png">
 </center>
  در آخر اگه بخوایم خلاقیت نشون بدیم میتونیم مثلا برگ تعریف کنیم و به درخت اضافه کنیم که بسا درختمون زیبا تر هم میشه
 اما باید یک سری تغییرات کوچیک هم انجام داد مثلا بعد رسم برگ ها باید از پن آپ و بعد از پن داون استفاده کرد
@@ -213,13 +209,13 @@ turtle.mainloop()
 :
 <br>
 <center>
-<img src="Screenshot2.png">
+<img src="/assets//images/Screenshot2.png">
 </center>
 برای دیدن فرکتال مثلث روی گزینه زیر کلیک کنید
 !
 <center>
     <br>
-    <a href="file:///C:/git/FC02031/S9/triangle.html">
+    <a href="/_posts/2023-11-18-Post-Number-3.md">
         <button>فرکتال مثلث</button>
       </a>
     </center>
