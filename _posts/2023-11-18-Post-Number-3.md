@@ -1,16 +1,16 @@
 ---
 layout: posts
-title: 
+title: "Turtle فرکتال مثلث در کتابخانه"
 ---
-<html dir="rtl";style="font-style:Tahoma">
+<!-- <html dir="rtl";style="font-style:Tahoma">
 <head>
 <center>
 <font size="+5">
-<font color="Green">
+<font color="Green"> -->
 "Turtle فرکتال مثلث در کتابخانه"
-</fontcolor>
-</font>
-</center>
+<!-- </fontcolor> -->
+<!-- </font> -->
+<!-- </center> -->
 <hr>
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
@@ -101,7 +101,7 @@ turtle.hideturtle()
 !
 <center>
 <br>
-<a href="/_posts/2023-11-18-Post-Number-2.md">
+<a href="/"Turtle فرکتال درخت در کتابخانه"">
     <button>فرکتال درخت</button>
   </a>
 </center>  
