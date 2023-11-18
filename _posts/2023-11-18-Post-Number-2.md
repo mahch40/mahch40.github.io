@@ -215,7 +215,7 @@ turtle.mainloop()
 !
 <center>
     <br>
-    <a href="/_posts/2023-11-18-Post-Number-3.md">
+    <a href="/Post-Number-3">
         <button>فرکتال مثلث</button>
       </a>
     </center>

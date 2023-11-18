@@ -7,7 +7,6 @@ title: "Turtle فرکتال مثلث در کتابخانه"
 <center>
 <font size="+5">
 <font color="Green"> -->
-"Turtle فرکتال مثلث در کتابخانه"
 <!-- </fontcolor> -->
 <!-- </font> -->
 <!-- </center> -->
@@ -101,9 +100,9 @@ turtle.hideturtle()
 !
 <center>
 <br>
-<a href="/"Turtle فرکتال درخت در کتابخانه"">
+<a href="/Post-Number-2">
     <button>فرکتال درخت</button>
   </a>
 </center>  
-</head>
-</html>
+<!-- </head>
+</html> -->
