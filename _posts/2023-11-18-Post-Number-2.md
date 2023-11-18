@@ -3,9 +3,9 @@ layout: posts
 title: "Turtle فرکتال درخت در کتابخانه"
 ---
 
-</fontcolor>
-</font>
-</center>
+<head 
+dir="rtl";
+style="font-style:Tahoma">
 <hr>
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
@@ -234,6 +234,6 @@ href="/Post-Number-3">
     <button>فرکتال مثلث
     </button>
     </a>
-    
-</center>
 
+</center>
+</head>

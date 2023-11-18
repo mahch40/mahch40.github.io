@@ -2,18 +2,10 @@
 layout: posts
 title: "Turtle فرکتال مثلث در کتابخانه"
 ---
-<html 
+<head 
 dir="rtl";
 style="font-style:Tahoma">
-<head>
-<center>
-<font 
-size="+5">
-<font 
-color="Green"> -->
-</fontcolor>
-</font>
-</center>
+
 <hr>
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
@@ -129,5 +121,3 @@ href="/Post-Number-2">
 </center>  
 
 </head>
-
-</html>
