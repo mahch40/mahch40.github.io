@@ -3,9 +3,9 @@ layout: posts
 title: "Turtle فرکتال درخت در کتابخانه"
 ---
 
-<div
+<!-- <div
 dir="rtl";
-style="font-style:Tahoma">
+style="font-style:Tahoma"> -->
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
 از اونجایی که داریم از کتابخانه 
@@ -235,4 +235,4 @@ href="/Post-Number-3">
     </a>
 
 </center>
-</div>
+<!-- </div> -->
