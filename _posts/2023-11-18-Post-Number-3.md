@@ -2,14 +2,18 @@
 layout: posts
 title: "Turtle فرکتال مثلث در کتابخانه"
 ---
-<!-- <html dir="rtl";style="font-style:Tahoma">
+<html 
+dir="rtl";
+style="font-style:Tahoma">
 <head>
 <center>
-<font size="+5">
-<font color="Green"> -->
-<!-- </fontcolor> -->
-<!-- </font> -->
-<!-- </center> -->
+<font 
+size="+5">
+<font 
+color="Green"> -->
+</fontcolor>
+</font>
+</center>
 <hr>
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
@@ -17,19 +21,22 @@ title: "Turtle فرکتال مثلث در کتابخانه"
 Turtle
 از پایتون استفاده میکنیم پس اول از همه داریم
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 import turtle
 </pre>
 کد مثلث بسیار ساده است
 .
 در ابتدا تابع را تعریف میکنیم با یک متغییر که طول ضلع مثلث است
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 def triangle(d):
 </pre>
  محدودیت میزاریم که اگر اندازه ضلع مثلث از حدی کمتر شد دیگه تابع مثلث نکشه
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 if d<5:
     return
 </pre>
@@ -50,7 +57,8 @@ if d<5:
 . 
 پس کد ما در ادامه باید حاوی خطوط زیر باشه
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 for _ in range(3):
         
     turtle.forward(d)
@@ -66,14 +74,16 @@ for _ in range(3):
   )
   استفاده می کنیم تا در آخر لاکپشت ما دیده نشه و تصویر زیبا تر به وجود بیاد
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 triangle(200)
 turtle.mainloop()
 turtle.hideturtle()
 </pre>
 در کل کد ما به صورت زیر خواهد بود
 :
-<pre dir="ltr">
+<pre 
+dir="ltr">
 import turtle
 
 def triangle(d):
@@ -93,16 +103,31 @@ turtle.hideturtle()
 که خروجی ما به صورت زیر خواهد بود
 :
 <br>
+
 <center>
-<img src="/assets/images/Screenshot3.png">
+
+<img 
+
+src="/assets/images/Screenshot3.png">
+
 </center>
+
 برای دیدن فرکتال درخت رو گزینه ی زیر کلیک کنید
 !
+
 <center>
+
 <br>
-<a href="/Post-Number-2">
-    <button>فرکتال درخت</button>
+
+<a 
+href="/Post-Number-2">
+    <button>فرکتال درخت
+    </button>
+
   </a>
+
 </center>  
-<!-- </head>
-</html> -->
+
+</head>
+
+</html>
