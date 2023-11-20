@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Turtle فرکتال مثلث در کتابخانه"
+title:  <div dir="rtl" font color:"Red"> "Turtle فرکتال مثلث در کتابخانه" </div>
 ---
 <div
 dir="rtl" 
