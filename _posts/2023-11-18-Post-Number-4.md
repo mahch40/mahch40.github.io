@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Turtle فرکتال جنگل در کتابخانه"
+title: <div dir="rtl"> "Turtle فرکتال جنگل در کتابخانه" </div>
 ---
 <div
 dir="rtl"
