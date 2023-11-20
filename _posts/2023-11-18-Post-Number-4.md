@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: <div dir="rtl" font color:"Blue"> "Turtle فرکتال جنگل در کتابخانه" </div>
+title: <div dir="rtl"> "Turtle فرکتال جنگل در کتابخانه" </div>
 ---
 <div
 dir="rtl"
