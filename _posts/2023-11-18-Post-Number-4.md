@@ -2,9 +2,9 @@
 layout: posts
 title: "Turtle فرکتال جنگل در کتابخانه"
 ---
-<!-- <div
-dir="rtl";
-style="font-style:Tahoma"> -->
+<div
+dir="rtl"
+style="font-style:Tahoma">
 تو پست زیر فهمیدیم چجوری یه درخت بکشیم
 :
 <center>

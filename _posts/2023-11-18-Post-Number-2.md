@@ -3,9 +3,9 @@ layout: posts
 title: "Turtle فرکتال درخت در کتابخانه"
 ---
 
-<!-- <div
-dir="rtl";
-style="font-style:Tahoma"> -->
+<div
+dir="rtl"
+style="font-style:Tahoma">
 لاکپشت همون فلش ماست که در حال حرکت و رسم هست
 .
 از اونجایی که داریم از کتابخانه 
