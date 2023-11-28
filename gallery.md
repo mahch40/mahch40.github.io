@@ -27,6 +27,10 @@ gallery:
     image_path: /assets/images/ee.jpg
     alt: "placeholder image 5"
     title: ""      
+  - url: /assets/images/ImagesPost5/Series6-2.jpg
+    image_path: /assets/images/ImagesPost5/Series6-2.jpg
+    alt: "placeholder image 6"
+    title: ""   
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
