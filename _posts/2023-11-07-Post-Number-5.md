@@ -13,10 +13,10 @@ Actually it was really easy to use this.Simply you type a description of picture
 <br>
 What I got was 4 nice pictures.The best ones were first two:
 <br>
-<img src="/assets/images/ImagesPost5/Series1-1.jpg>
-<img src="/assets/images/ImagesPost5/Series1-2.jpg>
-<img src="/assets/images/ImagesPost5/Series1-3.jpg>
-<img src="/assets/images/ImagesPost5/Series1-4.jpg>
+<img src="/assets/images/ImagesPost5/Series1-1.jpg">
+<img src="/assets/images/ImagesPost5/Series1-2.jpg">
+<img src="/assets/images/ImagesPost5/Series1-3.jpg">
+<img src="/assets/images/ImagesPost5/Series1-4.jpg">
 <br>
 It was close to what I wanted but I needed some feeling in it so I wrote:
 <br>
@@ -25,10 +25,10 @@ one the things I found out is that if you wanna add something to your picture,yo
 <br>
 I got :
 <br>
-<img src="/assets/images/ImagesPost5/Series2-1.jpg>
-<img src="/assets/images/ImagesPost5/Series2-2.jpg>
-<img src="/assets/images/ImagesPost5/Series2-3.jpg>
-<img src="/assets/images/ImagesPost5/Series2-4.jpg>
+<img src="/assets/images/ImagesPost5/Series2-1.jpg">
+<img src="/assets/images/ImagesPost5/Series2-2.jpg">
+<img src="/assets/images/ImagesPost5/Series2-3.jpg">
+<img src="/assets/images/ImagesPost5/Series2-4.jpg">
 <br>
 problem was I didn't want any moons or planets at the sky,so I said Delete moons!
 here is what my description looked so far:
@@ -36,10 +36,10 @@ here is what my description looked so far:
 "There are two mountains at each side of the image and there is a man at the center who sees them faraway,and it is a bit foggy,it has a mysterious and deep theme like the man thinks about his future,world,etc.delete moons"
 Here is what I got:
 <br>
-<img src="/assets/images/ImagesPost5/Series3-1.jpg>
-<img src="/assets/images/ImagesPost5/Series3-2.jpg>
-<img src="/assets/images/ImagesPost5/Series3-3.jpg>
-<img src="/assets/images/ImagesPost5/Series3-4.jpg>
+<img src="/assets/images/ImagesPost5/Series3-1.jpg">
+<img src="/assets/images/ImagesPost5/Series3-2.jpg">
+<img src="/assets/images/ImagesPost5/Series3-3.jpg">
+<img src="/assets/images/ImagesPost5/Series3-4.jpg">
 <br>
 What I learned here was that this AI can't understand negative!Try this:"a picture without moons and a with a beautiful jungle"
 you are gonna get a moon.It analysis the words not the meaning.Though pictures were actually nice.
@@ -50,10 +50,10 @@ I tried another way of saying I don't want moons and also I wanted a little bit 
 <br>
 Results were:
 <br>
-<img src="/assets/images/ImagesPost5/Series4-1.jpg>
-<img src="/assets/images/ImagesPost5/Series4-2.jpg>
-<img src="/assets/images/ImagesPost5/Series4-3.jpg>
-<img src="/assets/images/ImagesPost5/Series4-4.jpg>
+<img src="/assets/images/ImagesPost5/Series4-1.jpg">
+<img src="/assets/images/ImagesPost5/Series4-2.jpg">
+<img src="/assets/images/ImagesPost5/Series4-3.jpg">
+<img src="/assets/images/ImagesPost5/Series4-4.jpg">
 <br>
 I though the images were not realistic and tried another thing to delete moons(thought maybe they are planets).
 <br>
@@ -61,10 +61,10 @@ I though the images were not realistic and tried another thing to delete moons(t
 <br>
 Hmm...nice aren't they?
 <br>
-<img src="/assets/images/ImagesPost5/Series5-1.jpg>
-<img src="/assets/images/ImagesPost5/Series5-2.jpg>
-<img src="/assets/images/ImagesPost5/Series5-3.jpg>
-<img src="/assets/images/ImagesPost5/Series5-4.jpg>
+<img src="/assets/images/ImagesPost5/Series5-1.jpg">
+<img src="/assets/images/ImagesPost5/Series5-2.jpg">
+<img src="/assets/images/ImagesPost5/Series5-3.jpg">
+<img src="/assets/images/ImagesPost5/Series5-4.jpg">
 <br>
 It is ironic but I was like:"Let's add some cyberpunk."
 So I wrote:
@@ -72,10 +72,10 @@ So I wrote:
 <br>
 And here happened magic:
 <br>
-<img src="/assets/images/ImagesPost5/Series6-1.jpg>
-<img src="/assets/images/ImagesPost5/Series6-2.jpg>
-<img src="/assets/images/ImagesPost5/Series6-3.jpg>
-<img src="/assets/images/ImagesPost5/Series6-4.jpg>
+<img src="/assets/images/ImagesPost5/Series6-1.jpg">
+<img src="/assets/images/ImagesPost5/Series6-2.jpg">
+<img src="/assets/images/ImagesPost5/Series6-3.jpg">
+<img src="/assets/images/ImagesPost5/Series6-4.jpg">
 <br>
 And this was really good.I even was like:"Wait minute,planets or moons are really good actually."
 In my opinion the best one was this one:
