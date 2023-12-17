@@ -14,8 +14,6 @@ main:
     url: /Blog/
   - title: "Calendar"
     url: /Calendar/
-  - title: "SpreadSheet"
-    url: /SpreadSheet/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
