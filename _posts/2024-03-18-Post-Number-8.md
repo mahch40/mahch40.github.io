@@ -10,5 +10,5 @@ comments: false
 
 <html>
 I made An Art using only Code!!!
-Check out it <a href="https://github.com/mahch40/MandelBrotset">here</a>!!!
+Check it out <a href="https://github.com/mahch40/MandelBrotset">here</a>!!!
 </html>
