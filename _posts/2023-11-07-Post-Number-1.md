@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 author_profile: true
 permalink: /Bing-AI/
 title: Image Making With Bing-AI
@@ -189,6 +189,7 @@ In my opinion the best one was this one:
 <br>
 <br>
 <img src="/assets/images/ImagesPost5/Series6-2.jpg">
+<br>
 <br>
 I think this really says what I wanted to say. Watching some hills thinking about future of humans and yourself. Image one was really good too.
 <br>
