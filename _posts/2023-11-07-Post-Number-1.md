@@ -1,6 +1,11 @@
 ---
-layout: posts
+layout: single
+author_profile: true
+permalink: /Bing-AI/
 title: Image Making With Bing-AI
+tags: [Bing-AI]
+modified: 2023-12-30
+comments: false
 ---
 <div dir="ltr">
 I used <a href="https://www.bing.com/create">BingCreate</a> to create my image which is an AI by "Microsoft Bing" that needs a description to create an image totally by it self.
