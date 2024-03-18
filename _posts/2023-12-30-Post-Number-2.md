@@ -19,11 +19,11 @@ My idea was something like stackowerflow(some place you can go for asking and an
 <br>
 2-People of the same university can answer questions related to a teacher or lesson better than other people, Cause they maybe had that question themselves someday.
 <br>
-I used Chat-GPT and Codeium (moslty on codes I used GPT and for errors used Codeium). It has a login and register section and some universities that have list of majors and teacher-lessonsmlist that when you click on one of them you can see a list of questions for that teacher-lesson and answers for each question. When you log in you can go to each teacher-lesson and ask a question or add an answer to an existing question.
+I used Chat-GPT and Codeium (moslty on codes I used GPT and for errors used Codeium). It has a login and register section and some universities that have list of majors and teacher-lessons list that when you click on one of them you can see a list of questions for that teacher-lesson and answers for each question. When you log in you can go to each teacher-lesson and ask a question or add an answer to an existing question.
 <br>
-I did not knew so much about django. I used Chat-GPT for some time just to get the hang of it to ask the right questions to get the right answer, Because sometimes it gives you an answer that is kinda unrelated or it forgets some stuff. One the ways to avoid this issue is to ask part by part or step by step from it; I used this method alot.
+I did not knew so much about django. I used Chat-GPT for some time just to get the hang of it to ask the right questions to get the right answer, Because sometimes it gives you an answer that is kinda unrelated or it forgets some stuff. One of the ways to avoid this issue is to ask part by part or step by step from it; I used this method alot.
 <br>
-I asked almost everything from it and wrote some of codes and debugges some stuff I could myself. When I was done writing the codes I deployed my website at <a href="https://pythonanywhere.com/">pythonanywhere.com</a>. Which is a website that you can deploy one website for free.
+I asked almost everything from it and wrote some of codes and debugges; some stuff I could myself. When I was done writing the codes I deployed my website at <a href="https://pythonanywhere.com/">pythonanywhere.com</a>. Which is a website that you can deploy one website for free.
 <br>
 Simply(well it is not as simple as I am saying right here) I started by linking some htmls together(universities to majors and etc) and then added databasases for questions and answers and users. Then added user login and registration, and at last designed it with bootstrap and html and css.
 <br>
