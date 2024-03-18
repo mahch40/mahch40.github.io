@@ -3,7 +3,7 @@ layout: posts
 title: Image Making With Bing-AI
 ---
 <div dir="ltr">
-I used <a href="www.bing.com/create">BingCreate</a> to create my image which is an AI by "Microsoft Bing" that needs a description to create an image totally by it self.
+I used <a href="https://www.bing.com/create">BingCreate</a> to create my image which is an AI by "Microsoft Bing" that needs a description to create an image totally by it self.
 <br>
 Here is my journey...
 <br>
