@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: posts
 title: <div dir="rtl"> "Turtle فرکتال جنگل در کتابخانه" </div>
 ---
@@ -366,4 +366,4 @@ turtle.mainloop()
 src="/assets/images/Screenshot5.png">
 
 </center>
-
+ -->
