@@ -13,10 +13,27 @@ Actually it was really easy to use this.Simply you type a description of picture
 <br>
 What I got was 4 nice pictures.The best ones were first two:
 <br>
-<img src="/assets/images/ImagesPost5/Series1-1.jpg">
-<img src="/assets/images/ImagesPost5/Series1-2.jpg">
-<img src="/assets/images/ImagesPost5/Series1-3.jpg">
-<img src="/assets/images/ImagesPost5/Series1-4.jpg">
+<br>
+{% raw %}
+<style>
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="gallery">
+    <img src="/assets/images/ImagesPost5/Series1-1.jpg" alt="Image not found.">
+    <img src="/assets/images/ImagesPost5/Series1-2.jpg" alt="Image not found.">
+    <img src="/assets/images/ImagesPost5/Series1-3.jpg" alt="Image not found.">
+    <img src="/assets/images/ImagesPost5/Series1-4.jpg" alt="Image not found.">
+</div>
+{% endraw %}
 <br>
 It was close to what I wanted but I needed some feeling in it so I wrote:
 <br>
