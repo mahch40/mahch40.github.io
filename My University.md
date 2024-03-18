@@ -17,10 +17,10 @@ IUST is a research institution and university of engineering and science in Iran
 Iran-Tehran-Resalat st.-Hengam st.-Daneshgah st.-Iran University of Science and Technology
 
 
--Site of the university: (http://www.iust.ac.ir/)
+-Site of the university: <a href="http://www.iust.ac.ir/"> IUST </a>
 - 
 
-More on University: (https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology).
+More on University: <a href="https://en.wikipedia.org/wiki/Iran_University_of_Science_and_Technology"> here <a>.
 
 
 
