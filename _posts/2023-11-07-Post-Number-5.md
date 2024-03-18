@@ -9,7 +9,7 @@ Here is my journey...
 <br>
 Actually it was really easy to use this. Simply you type a description of picture you are imagining and AI creates it. What I had in my mind was a man who stands in top of a mountain and sees a view infront of him and there are two mountains faraway in the view. So I wrote:
 <br>
-"There are two mountains at each side of the image and there is a man at the center who sees them faraway,and it is a bit foggy."
+"There are two mountains at each side of the image and there is a man at the center who sees them faraway, and it is a bit foggy."
 <br>
 What I got was 4 nice pictures. The best ones were first two:
 <br>
@@ -38,7 +38,7 @@ What I got was 4 nice pictures. The best ones were first two:
 It was close to what I wanted but I needed some feeling in it so I wrote:
 <br>
 "There are two mountains at each side of the image and there is a man at the center who sees them faraway, and it is a bit foggy, it has a mysterious and deep theme like the man thinks about his future, world, etc."
-one the things I found out is that if you wanna add something to your picture, you have to continue what you have written already at description box.
+One of the things I found out is that if you wanna add something to your picture, you have to continue what you have written already at description box.
 <br>
 I got :
 <br>
@@ -64,10 +64,10 @@ I got :
 </div>
 {% endraw %}
 <br>
-problem was I didn't want any moons or planets at the sky, so I said Delete moons!
-here is what my description looked so far:
+Problem was I didn't want any moons or planets at the sky, so I said Delete Moons!
+Here is what my description looked so far:
 <br>
-"There are two mountains at each side of the image and there is a man at the center who sees them faraway, and it is a bit foggy, it has a mysterious and deep theme like the man thinks about his future, world, etc. delete moons"
+"There are two mountains at each side of the image and there is a man at the center who sees them faraway, and it is a bit foggy, it has a mysterious and deep theme like the man thinks about his future, world, etc. Delete moons."
 Here is what I got:
 <br>
 <br>
@@ -92,7 +92,7 @@ Here is what I got:
 </div>
 {% endraw %}
 <br>
-What I learned here was that this AI can't understand negative! Try this: "A picture without moons and a with a beautiful jungle"
+What I learned here was that this AI can't understand negative! Try this: "A picture without moons and a with a beautiful jungle.",
  you are gonna get a moon. It analysis the words not the meaning. Though pictures were actually nice.
 <br>
 I tried another way of saying I don't want moons and also I wanted a little bit of darkness.
@@ -157,6 +157,7 @@ So I wrote:
 <br>
 And here happened magic:
 <br>
+<br>
 {% raw %}
 <style>
 .gallery {
@@ -180,6 +181,7 @@ And here happened magic:
 <br>
 And this was really good. I even was like: "Wait minute, planets or moons are really good actually."
 In my opinion the best one was this one:
+<br>
 <br>
 <img src="/assets/images/ImagesPost5/Series6-2.jpg">
 <br>
