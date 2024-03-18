@@ -4,7 +4,7 @@ author_profile: true
 permalink: /My University/
 title: IUST(Iran University of Science of Technology)
 tags: [IUST,My University]
-modified: 2023-11-07
+modified: 2024-03-18
 comments: false
 ---
 
